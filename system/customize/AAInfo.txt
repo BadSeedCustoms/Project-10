@@ -1,0 +1,6 @@
+TaskID : 480184
+Project : PERFUME_WL_M60_SENSE80GP_VZW
+SKU : NA Gen Unlock[617]
+ROM Ver : 1.80.617.1
+Customization Id : 3044742
+RCMS Id : 570
